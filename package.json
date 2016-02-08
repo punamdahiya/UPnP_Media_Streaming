@@ -1,0 +1,16 @@
+{
+  "title": "UPnP Media Streaming",
+  "name": "upnpmediastreaming",
+  "version": "0.0.1",
+  "description": "DLNA UPnP media streaming centre and video player that plays multimedia content such as pictures, music and videos throughout your home Wi-Fi network",
+  "main": "index.js",
+  "author": "Punam Dahiya",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
